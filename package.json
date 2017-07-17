@@ -1,0 +1,27 @@
+{
+  "name": "twitter-bot",
+  "version": "1.0.0",
+  "description": "personal twitter bot",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ubikOne/twitter-bot.git"
+  },
+  "keywords": [
+    "twitter",
+    "bot",
+    "twitter-bot"
+  ],
+  "author": "Bartek 'ubikOne' Błażejewski",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/ubikOne/twitter-bot/issues"
+  },
+  "homepage": "https://github.com/ubikOne/twitter-bot#readme",
+  "dependencies": {
+    "twit": "^2.2.9"
+  }
+}
